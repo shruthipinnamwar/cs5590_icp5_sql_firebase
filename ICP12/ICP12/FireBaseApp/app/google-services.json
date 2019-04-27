@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923203749655",
+    "firebase_url": "https://icp5web.firebaseio.com",
+    "project_id": "icp5web",
+    "storage_bucket": "icp5web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923203749655:android:0e7008247a2b171f",
+        "android_client_info": {
+          "package_name": "edu.umkc.rashmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923203749655-pmhop94vhgnm12e3kco78gu668evo794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiL2I69UyKwS1kWSl6pxu0jq5sam9ort8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923203749655-pmhop94vhgnm12e3kco78gu668evo794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
